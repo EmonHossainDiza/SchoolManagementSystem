@@ -1,0 +1,58 @@
+#logsession
+	{		
+		padding-top:0%;
+		margin-bottom:10px;
+	}
+	
+	p{
+			border-left: 2px solid blue;
+			border-radius: 3px;
+			background-color: lightgrey;
+			text-align: center;
+			font-size: 20px;
+			
+		}
+
+#menu	
+	{border: 2px gray;
+		margin-left:1%;
+		margin-right:3%;
+		height:410px;
+		width:240px;
+				
+	}
+	.column:hover, .column:active , .column:link
+		{
+    background-color:  #008080;
+	color:black;
+	
+		}
+.column
+		{
+			
+
+	background-color: #006666;
+    font-size:20px;
+    padding: 14px 25px;
+    text-align: center;    
+    display: inline-block;	
+	width:190px;
+	height:40px;
+		}
+a:link{
+	text-decoration:none;
+	}
+	a:hover{
+    font-weight:bold;
+	color:black;}
+a{color:white;
+font-weight:bold;}	
+
+#screen
+	{
+		
+	height:500px;	
+	width:77%;
+    margin: auto;
+		
+	}
